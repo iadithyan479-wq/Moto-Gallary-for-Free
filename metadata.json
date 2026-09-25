@@ -1,0 +1,6 @@
+{
+  "name": "MotoGallery",
+  "description": "High-contrast minimalist offline photo gallery for Motorola with private encrypted vault, on-device facial recognition, battery-optimized cloud sync, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

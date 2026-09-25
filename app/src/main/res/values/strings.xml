@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MotoGallery</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_for_you">For You</string>
+    <string name="tab_settings">Settings</string>
+    <string name="tab_vault">Vault</string>
+    <string name="tab_analytics">Dashboard</string>
+</resources>
